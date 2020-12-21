@@ -6,7 +6,10 @@
 小红书：即将开通
 ## 痤疮治疗
 ### 各种指南
+#### [中国痤疮治疗指南 2019修订版]（http://www.cnki.com.cn/Article/CJFDTotal-LCPF201909023.htm）
 #### [2017 日本皮肤病协会（JDA）指南：寻常痤疮的治疗](https://www.researchgate.net/publication/325274910_Japanese_Dermatological_Association_Guidelines_Guidelines_for_the_treatment_of_acne_vulgaris_2017) 已开源，可下载
+#### [2016 美国皮肤病学会 （AAD）指南：寻常痤疮的管理]（https://www.sciencedirect.com/science/article/abs/pii/S0190962206023462）
+#### [2016 欧洲皮肤病学论坛 （EDF）循证指南：痤疮的治疗]（https://www.researchgate.net/publication/306085267_European_evidence-based_S3_guideline_for_the_treatment_of_acne_-_update_2016_-_short_version）
 ### 维A酸（阿达帕林、维A酸、他扎罗汀）
 ### 口服异维A
 ### 维持治疗
