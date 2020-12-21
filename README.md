@@ -6,7 +6,7 @@
 小红书：即将开通
 ## 痤疮治疗
 ### 各种指南
-#### 2017 日本皮肤病协会（JDA）指南：寻常痤疮的治疗 
+#### [2017 日本皮肤病协会（JDA）指南：寻常痤疮的治疗](https://www.researchgate.net/publication/325274910_Japanese_Dermatological_Association_Guidelines_Guidelines_for_the_treatment_of_acne_vulgaris_2017) 已开源，可下载
 ### 维A酸（阿达帕林、维A酸、他扎罗汀）
 ### 口服异维A
 ### 维持治疗
