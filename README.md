@@ -20,7 +20,7 @@
 ### 其他
 ## 医美
 ### 各公司官网
-[Botox(保妥适)肉毒杆菌](https://www.botox.com/)
+[Botox(保妥适)肉毒杆菌](https://www.botox.com/)  
 [科医人](https://lumenis.com/)
 ### 各仪器官方说明
 ### 临床研究
