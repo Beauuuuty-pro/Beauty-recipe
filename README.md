@@ -21,6 +21,13 @@
 ### 维A酸（阿达帕林、维A酸、他扎罗汀）
 ### 口服异维A
 ### 奶制品与痤疮的关系
+
+[高中饮食乳制品摄入量与青少年痤疮 High school dietary dairy intake and teenage acne.](https://www.sciencedirect.com/science/article/abs/pii/S0190962204021589)
+
+[增加对乳制品痤疮的支持：IGF-1，mTORC1，FoxO1和饮食加重了寻常痤疮 .Increasing Support for a Dairy-Acne Link: IGF-1, mTORC1, FoxO1, and Dietary Aggravation of Acne Vulgaris.](https://www.onacademic.com/detail/journal_1000040887853710_20e9.html)
+
+[痤疮与乳制品. Acne and dairy products.](https://www.researchgate.net/publication/221856454_Acne_and_dairy_products)
+
 ### 维持治疗
 ### 其他
 ## 医美
