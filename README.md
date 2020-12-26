@@ -38,6 +38,7 @@
 ### 临床研究
 ## 科学护肤
 ### 皮肤科学
+###防晒
 ### 抗老
 [0.1% 阿达帕林霜在治疗皮肤光老化上的有效性与安全性 Efficacy and safety of adapalene 0.1% cream in the treatment of skin photoaging](https://www.researchgate.net/publication/279999214_Efficacy_and_safety_of_adapalene_01_cream_in_the_treatment_of_skin_photoaging)
 
