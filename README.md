@@ -45,6 +45,10 @@
 
 [Whey Protein Precipitating Moderate to Severe Acne Flares in 5 Teenaged Athletes.](https://www.researchgate.net/publication/230877844_Whey_Protein_Precipitating_Moderate_to_Severe_Acne_Flares_in_5_Teenaged_Athletes)
 
+[Milk consumption and acne in teenage boys.](https://www.researchgate.net/publication/5656374_Milk_consumption_and_acne_in_teenage_boys)
+
+[Milk consumption and acne in adolescent girls](https://www.researchgate.net/publication/6712875_Milk_consumption_and_acne_in_adolescent_girls/link/554a9c540cf29f836c96534c/download)
+
 ### 维持治疗
 
 维持治疗可减轻并预防痤疮复发，是痤疮整体治疗的重要组成。外用维A酸是痤疮维持治疗的一线药物，必要时可考虑联合外用过氧化苯甲酰或直接采用0.1%阿达帕林和2.5%过氧化苯甲酰的复方制剂。此外，外用 0.1%阿达帕林每周3次联合低浓度果酸的也可作为维持治疗选择； 一些经过临床验证的抗痤疮类功能性护肤品也可用于辅助维持治疗。 维持治疗疗程通常为3～12个月。  
