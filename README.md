@@ -71,3 +71,17 @@
 ### 维持治疗
 
 维持治疗可减轻并预防痤疮复发，是痤疮整体治疗的重要组成。外用维A酸是痤疮维持治疗的一线药物，必要时可考虑联合外用过氧化苯甲酰或直接采用0.1%阿达帕林和2.5%过氧化苯甲酰的复方制剂。此外，外用 0.1%阿达帕林每周3次联合低浓度果酸的也可作为维持治疗选择； 一些经过临床验证的抗痤疮类功能性护肤品也可用于辅助维持治疗。 维持治疗疗程通常为3～12个月。  
+（摘自《2019修订版 中国痤疮治疗指南》）
+
+ ### 其他
+ ## 医美
+ ### 各公司官网
+ [Botox(保妥适)肉毒杆菌](https://www.botox.com/)  
+ [科医人](https://lumenis.com/)
+ ### 各仪器官方说明
+ ### 临床研究
+ ## 科学护肤
+ ### 皮肤科学
+ ### 防晒
+ ### 抗老
+ [0.1% 阿达帕林霜在治疗皮肤光老化上的有效性与安全性 Efficacy and safety of adapalene 0.1% cream in the treatment of skin photoaging](https://www.researchgate.net/publication/279999214_Efficacy_and_safety_of_adapalene_01_cream_in_the_treatment_of_skin_photoaging)
