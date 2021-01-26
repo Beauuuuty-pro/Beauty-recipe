@@ -56,11 +56,15 @@
 
 ### 奶制品与痤疮的关系
 
-[高中饮食乳制品摄入量与青少年痤疮 High school dietary dairy intake and teenage acne.](https://www.sciencedirect.com/science/article/abs/pii/S0190962204021589)
+[高中饮食乳制品摄入量与青少年痤疮 High school dietary dairy intake and teenage acne.](https://www.sciencedirect.com/science/article/abs/pii/S0190962204021589)  
+**摘要：** 背景：先前的研究表明西方饮食和痤疮之间可能存在关联。我们使用了Nurses Health Study II的数据来回顾性评估在高中期间摄入乳制品是否与青少年严重痤疮有关。 方法：我们研究了47335名女性，这些女性均在1989年被诊断患有痤疮，并在1998年完成关于高中时期饮食的调查问卷。我们估计了痤疮的患病率和95%置信区间下不同摄入类别痤疮患病史。 结果：在考虑年龄、初潮年龄、体重指数和能量摄入后，痤疮的多变量患病率（95%置信区间；趋势检验P值）与极端摄入类型相比，总奶量为1.22（1.03，1.44；.002）；全脂奶为1.12（1.00，1.25；.56）；1.16（1.01，1.34；0.25），脱脂奶为1.44（1.21，1.72；.003）。速溶早餐饮料、果子露、白干酪和奶油干酪也与痤疮呈正相关。 结论：我们发现总牛奶和脱脂牛奶的摄入量与痤疮呈正相关。我们推测痤疮与牛奶的联系可能是因为牛奶中含有激素和生物活性分子。
+
 
 [增加对乳制品痤疮的支持：IGF-1，mTORC1，FoxO1和饮食加重了寻常痤疮 .Increasing Support for a Dairy-Acne Link: IGF-1, mTORC1, FoxO1, and Dietary Aggravation of Acne Vulgaris.](https://www.onacademic.com/detail/journal_1000040887853710_20e9.html)
 
 [痤疮与乳制品. Acne and dairy products.](https://www.researchgate.net/publication/221856454_Acne_and_dairy_products)
+**阿时的总结：** 这篇文章是两位本科生写给编辑的信。他们认为，激素是引起痤疮最重要的因素，而压力、细菌等因素是其次的。尽管痤疮很多发，但很少人会懂得去寻求医生的帮助（85%的青少年会患痤疮，但只有11%的人寻求医生帮助）。研究发现，摄入乳制品的人群更有可能患有痤疮，但可以说乳脂含量对痤疮没有影响（因为摄入脱脂奶的痤疮人数比摄入全脂奶的痤疮人数多）。牛奶含有类似于激素的物质，导致的高血糖指数会引起促胰岛素反应。IGF-1随着生长激素、脱氢表雄酮、二氢睾酮的升高而升高，这些激素都和痤疮有关。IGF-1会促进细胞分裂和抑制细胞凋亡。它不但会使皮脂腺活跃，还会产生过多的雄性激素使痤疮更为严重。除了IGF-1之外，还有其他与饮食有关的衍生物会影响痤疮，比如oncogenic phosphoinositide -3- kinase 会使雄性激素受体变得活跃导致长痤疮。牛奶中一系列的物质都会与痤疮有关。所以，可以得出结论：乳制品的摄入与痤疮有很大的关系。
+
 
 [Whey Protein Precipitating Moderate to Severe Acne Flares in 5 Teenaged Athletes.](https://www.researchgate.net/publication/230877844_Whey_Protein_Precipitating_Moderate_to_Severe_Acne_Flares_in_5_Teenaged_Athletes)
 
