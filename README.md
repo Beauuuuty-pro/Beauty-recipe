@@ -62,7 +62,7 @@
 
 [增加对乳制品痤疮的支持：IGF-1，mTORC1，FoxO1和饮食加重了寻常痤疮 .Increasing Support for a Dairy-Acne Link: IGF-1, mTORC1, FoxO1, and Dietary Aggravation of Acne Vulgaris.](https://www.onacademic.com/detail/journal_1000040887853710_20e9.html)
 
-[痤疮与乳制品. Acne and dairy products.](https://www.researchgate.net/publication/221856454_Acne_and_dairy_products)
+[痤疮与乳制品. Acne and dairy products.](https://www.researchgate.net/publication/221856454_Acne_and_dairy_products)  
 **阿时的总结：** 这篇文章是两位本科生写给编辑的信。他们认为，激素是引起痤疮最重要的因素，而压力、细菌等因素是其次的。尽管痤疮很多发，但很少人会懂得去寻求医生的帮助（85%的青少年会患痤疮，但只有11%的人寻求医生帮助）。研究发现，摄入乳制品的人群更有可能患有痤疮，但可以说乳脂含量对痤疮没有影响（因为摄入脱脂奶的痤疮人数比摄入全脂奶的痤疮人数多）。牛奶含有类似于激素的物质，导致的高血糖指数会引起促胰岛素反应。IGF-1随着生长激素、脱氢表雄酮、二氢睾酮的升高而升高，这些激素都和痤疮有关。IGF-1会促进细胞分裂和抑制细胞凋亡。它不但会使皮脂腺活跃，还会产生过多的雄性激素使痤疮更为严重。除了IGF-1之外，还有其他与饮食有关的衍生物会影响痤疮，比如oncogenic phosphoinositide -3- kinase 会使雄性激素受体变得活跃导致长痤疮。牛奶中一系列的物质都会与痤疮有关。所以，可以得出结论：乳制品的摄入与痤疮有很大的关系。
 
 
