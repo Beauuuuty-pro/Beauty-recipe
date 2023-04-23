@@ -86,7 +86,8 @@
  ### 临床研究
  ## 科学护肤
  ### 皮肤科学
- ### 刷酸
+ ### 化学换肤（刷酸）
+ [化学剥脱术 chemical peel](https://www.mayoclinic.org/zh-hans/tests-procedures/chemical-peel/about/pac-20393473)
  #### 水杨酸
  [Clinical and dermoscopic evaluation of combined (salicylic acid 20% and azelaic acid 20%) versus trichloroacetic acid 25% chemical peel in acne: an RCT](https://www.tandfonline.com/doi/full/10.1080/09546634.2018.1484876?casa_token=EXGJtY8kcqgAAAAA%3Ac2S-TAjVZrXVf3sxKA7uWP27rh9z_WjMP56cXYp8L7_3CcSaqdxmvY3mhN0xKBU_BSzN_c7zrB_y)
  ### 防晒
