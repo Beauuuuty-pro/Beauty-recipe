@@ -86,6 +86,9 @@
  ### 临床研究
  ## 科学护肤
  ### 皮肤科学
+ ### 刷酸
+ #### 水杨酸
+ [Clinical and dermoscopic evaluation of combined (salicylic acid 20% and azelaic acid 20%) versus trichloroacetic acid 25% chemical peel in acne: an RCT] (https://www.tandfonline.com/doi/full/10.1080/09546634.2018.1484876?casa_token=EXGJtY8kcqgAAAAA%3Ac2S-TAjVZrXVf3sxKA7uWP27rh9z_WjMP56cXYp8L7_3CcSaqdxmvY3mhN0xKBU_BSzN_c7zrB_y)
  ### 防晒
  ### 抗老
  [0.1% 阿达帕林霜在治疗皮肤光老化上的有效性与安全性 Efficacy and safety of adapalene 0.1% cream in the treatment of skin photoaging](https://www.researchgate.net/publication/279999214_Efficacy_and_safety_of_adapalene_01_cream_in_the_treatment_of_skin_photoaging)
